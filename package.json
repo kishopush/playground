@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "A TypeScript monorepo for experimenting with new ideas, patterns, and technologies",
   "packageManager": "pnpm@10.11.1",
-  "volta": {
-    "node": "22.16.0"
+  "engines": {
+    "node": "22.16.0",
+    "pnpm": "10.11.1"
   }
 }
